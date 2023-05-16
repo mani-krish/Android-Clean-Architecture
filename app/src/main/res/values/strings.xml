@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assessment - Android</string>
+    <string name="title_country">Countries</string>
+    <string name="title_architecture">Clean Architecture</string>
+    <string name="message_internet_error">Please check your network connection</string>
+    <string name="message_general_error">Something went wrong!</string>
+    <string name="message_app_exit">Are you sure you want to exit?</string>
+    <string name="message_no_data">No Data Found !</string>
+    <string name="title_alert">Alert</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="text_format">%1$s, %2$s</string>
+</resources>
