@@ -3,8 +3,8 @@
 Application is built with latest components and best practices
 
 Kotlin Language
-Clean Architecture - MVVM
-Single Activity Architecture - SAA
+\n Clean Architecture - MVVM
+\n Single Activity Architecture - SAA
 Design Principle - Separation of Concern
 SOLID principles
 Dependency Injection - Hilt
