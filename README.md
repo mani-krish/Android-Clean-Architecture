@@ -3,17 +3,17 @@
 Application is built with latest components and best practices
 
 Kotlin Language
-\n Clean Architecture - MVVM
-\n Single Activity Architecture - SAA
-Design Principle - Separation of Concern
-SOLID principles
-Dependency Injection - Hilt
-Modern Application Development
-Coroutine
-Flow
-StateFlow
-ViewModel
-DataBinding
-Extension Function, Scope Function, Data class, Sealed class, Enum
-Retrofit
-ConstraintLayout
+<br> Clean Architecture - MVVM
+<br> Single Activity Architecture - SAA
+<br> Design Principle - Separation of Concern
+<br> SOLID principles
+<br> Dependency Injection - Hilt
+<br> Modern Application Development
+<br> Coroutine
+<br> Flow
+<br> StateFlow
+<br> ViewModel
+<br> DataBinding
+<br> Extension Function, Scope Function, Data class, Sealed class, Enum
+<br> Retrofit
+<br> ConstraintLayout
